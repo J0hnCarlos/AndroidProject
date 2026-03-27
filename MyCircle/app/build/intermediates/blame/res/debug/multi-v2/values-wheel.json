@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\MyCircle\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-wheel\\values-wheel.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\John Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\CursorWheelLayout-1.1.0.aar\\8816a0e6eb747c828e0a3a5bc3c9ab32\\res\\values-wheel\\values-wheel.xml",
+                    "from": {
+                        "startLines": "2,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,903,958",
+                        "endLines": "18,19,20",
+                        "endColumns": "24,54,48",
+                        "endOffsets": "898,953,1002"
+                    }
+                }
+            ]
+        }
+    ]
+}

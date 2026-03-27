@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week5</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="buton_send">Send</string>
+</resources>

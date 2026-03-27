@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:5:5-87:19
+MERGED from [com.nightonke:boommenu:2.1.1] C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\boommenu\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\db1613ca85992d3ca1bbfa6581b1ae4ef96ce357\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\750f16ae77e139e3166e1b633000d06233afe5e0\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\0c6b6b2f19002e093cfa6f0249b2911d423169d9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\13a20602fb6a91225ee080aed88c327a6fffb920\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] C:\Users\John Carlos\.android\build-cache\40688991612ce6dd2612d6d56e3650602598e193\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\John Carlos\.android\build-cache\acc332699d3fa43fe28b6b10cee46d2e8eece786\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\bc920c89fa9ac3e873f055613a48a0917b701a55\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\John Carlos\.android\build-cache\72028cad0dd92f9d90d9868992a3c37e3351f734\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\John Carlos\.android\build-cache\f4a2a82353c170bbfc5697e854e17efc1013ca59\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\John Carlos\.android\build-cache\fa168d6cf5d6b10f4fd4aea01713c59f590a6d18\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\d0474ee1fe2c032badd5e5790a560e3e08fe5356\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John Carlos\.android\build-cache\3e6b50c72a5bb963f3188cb723e57bfb8975b182\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.nightonke.boommenusample.MainActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.nightonke.boommenusample.SimpleCircleButtonActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:18:9-20:52
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:19:13-55
+activity#com.nightonke.boommenusample.TextInsideCircleButtonActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:21:9-23:50
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:22:13-59
+activity#com.nightonke.boommenusample.TextOutsideCircleButtonActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:24:9-26:51
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:25:13-60
+activity#com.nightonke.boommenusample.HamButtonActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:27:9-29:42
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:29:13-39
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:28:13-46
+activity#com.nightonke.boommenusample.SquareAndPieceCornerRadiusActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:30:9-32:64
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:32:13-61
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:31:13-63
+activity#com.nightonke.boommenusample.BoomExampleActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:33:9-35:36
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:34:13-48
+activity#com.nightonke.boommenusample.ButtonPlaceAlignmentActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:36:9-38:54
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:38:13-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:37:13-57
+activity#com.nightonke.boommenusample.OrderExampleActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:39:9-41:37
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:41:13-34
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:40:13-49
+activity#com.nightonke.boommenusample.ActionBarActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:42:9-44:41
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:44:13-38
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:43:13-46
+activity#com.nightonke.boommenusample.ToolBarActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:45:9-47:51
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:47:13-48
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:46:13-44
+activity#com.nightonke.boommenusample.DraggableActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:48:9-50:41
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:50:13-38
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:49:13-46
+activity#com.nightonke.boommenusample.EaseActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:51:9-53:36
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:53:13-33
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:52:13-41
+activity#com.nightonke.boommenusample.ListenerActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:55:13-45
+activity#com.nightonke.boommenusample.ControlActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:57:9-59:39
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:58:13-44
+activity#com.nightonke.boommenusample.ShareActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:60:9-62:37
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:62:13-34
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:61:13-42
+activity#com.nightonke.boommenusample.ListViewActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:63:9-65:36
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:64:13-45
+activity#com.nightonke.boommenusample.RecyclerViewActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:66:9-68:45
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:68:13-42
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:67:13-49
+activity#com.nightonke.boommenusample.FragmentActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:69:9-71:40
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:70:13-45
+activity#com.nightonke.boommenusample.ChangeBoomButtonActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:72:9-74:50
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:74:13-47
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:73:13-53
+activity#com.nightonke.boommenusample.ThreeDAnimationActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:75:9-77:44
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:77:13-41
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:76:13-52
+activity#com.nightonke.boommenusample.CustomPositionActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:78:9-80:47
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:79:13-51
+activity#com.nightonke.boommenusample.FadeViewsActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:81:9-83:42
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:83:13-39
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:82:13-46
+activity#com.nightonke.boommenusample.OrientationActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:84:9-86:77
+	android:configChanges
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml:85:13-48
+uses-sdk
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.nightonke:boommenu:2.1.1] C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\boommenu\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\db1613ca85992d3ca1bbfa6581b1ae4ef96ce357\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\750f16ae77e139e3166e1b633000d06233afe5e0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\0c6b6b2f19002e093cfa6f0249b2911d423169d9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\13a20602fb6a91225ee080aed88c327a6fffb920\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] C:\Users\John Carlos\.android\build-cache\40688991612ce6dd2612d6d56e3650602598e193\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\John Carlos\.android\build-cache\acc332699d3fa43fe28b6b10cee46d2e8eece786\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\bc920c89fa9ac3e873f055613a48a0917b701a55\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\John Carlos\.android\build-cache\72028cad0dd92f9d90d9868992a3c37e3351f734\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\John Carlos\.android\build-cache\f4a2a82353c170bbfc5697e854e17efc1013ca59\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\John Carlos\.android\build-cache\fa168d6cf5d6b10f4fd4aea01713c59f590a6d18\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\d0474ee1fe2c032badd5e5790a560e3e08fe5356\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John Carlos\.android\build-cache\3e6b50c72a5bb963f3188cb723e57bfb8975b182\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\BoomMenu-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\db1613ca85992d3ca1bbfa6581b1ae4ef96ce357\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\750f16ae77e139e3166e1b633000d06233afe5e0\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\John Carlos\.android\build-cache\0c6b6b2f19002e093cfa6f0249b2911d423169d9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\John Carlos\.android\build-cache\13a20602fb6a91225ee080aed88c327a6fffb920\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] C:\Users\John Carlos\.android\build-cache\40688991612ce6dd2612d6d56e3650602598e193\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\John Carlos\.android\build-cache\acc332699d3fa43fe28b6b10cee46d2e8eece786\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\bc920c89fa9ac3e873f055613a48a0917b701a55\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\John Carlos\.android\build-cache\72028cad0dd92f9d90d9868992a3c37e3351f734\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\John Carlos\.android\build-cache\f4a2a82353c170bbfc5697e854e17efc1013ca59\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\John Carlos\.android\build-cache\fa168d6cf5d6b10f4fd4aea01713c59f590a6d18\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\John Carlos\.android\build-cache\d0474ee1fe2c032badd5e5790a560e3e08fe5356\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] C:\Users\John Carlos\.android\build-cache\89124aa75440ab334da60aaf2f6d4e44f2122fa0\output\AndroidManifest.xml:27:13-51

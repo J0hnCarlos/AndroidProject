@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c1fbce75a6ff6d66bca9656e4879747c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d814f45c2c7bf78d3eef396a69afa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\0d3f13bab51b45d88b6c05ee8b2a56a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fd6c93aee09767adca5e4a1b0a6301a3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f32bd664e0d755c924c31e4ec53470f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a392d2134aff4af17487368da1ec760\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19e129fb83418579d8e55a29aad0bbaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\416337bb0dad891c95889a8fc9ca13e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68739488825622e9f00362a38429f602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0c622d8fe3391e9b557d66bde46cfb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\492803f9b8fd086892a2a86da397969b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\45b86001f826a79cb77a17a864b1631d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c6e3d8528e67c3d0f5fcae1c96040a2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65b8a45ac7b5ab2feb57b42740c7f738\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d8a3ec3987d84f542bbc3d4022dcf170\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\addb436bc3b0b3de758c4a6a2ec0cac4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0a3f72b61da5f7057d4ff0e7e8fa7a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70b6a9ed29ca8b4c97080d47eeebd333\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fd6c93aee09767adca5e4a1b0a6301a3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fd6c93aee09767adca5e4a1b0a6301a3\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:11:9-40
+activity#au.com.codycodes.tpk.tamizhpallikoodam.HomeActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:13:13-41
+activity#au.com.codycodes.tpk.tamizhpallikoodam.SplashActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:17:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:22:27-74
+activity#au.com.codycodes.tpk.tamizhpallikoodam.LearnActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:25:19-48
+activity#au.com.codycodes.tpk.tamizhpallikoodam.VocabularyActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:26:9-56
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:26:19-53
+activity#au.com.codycodes.tpk.tamizhpallikoodam.AboutActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:27:19-48
+activity#au.com.codycodes.tpk.tamizhpallikoodam.QuestionActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:28:9-30:63
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:30:13-60
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:29:13-45
+activity#au.com.codycodes.tpk.tamizhpallikoodam.ResultSplashActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:31:19-55
+activity#au.com.codycodes.tpk.tamizhpallikoodam.FinalScore
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:32:9-48
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:32:19-45
+meta-data#preloaded_fonts
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:34:9-36:57
+	android:resource
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:36:13-54
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml:35:13-43
+uses-sdk
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c1fbce75a6ff6d66bca9656e4879747c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c1fbce75a6ff6d66bca9656e4879747c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d814f45c2c7bf78d3eef396a69afa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c7d814f45c2c7bf78d3eef396a69afa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\0d3f13bab51b45d88b6c05ee8b2a56a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\0d3f13bab51b45d88b6c05ee8b2a56a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fd6c93aee09767adca5e4a1b0a6301a3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fd6c93aee09767adca5e4a1b0a6301a3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f32bd664e0d755c924c31e4ec53470f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f32bd664e0d755c924c31e4ec53470f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a392d2134aff4af17487368da1ec760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3a392d2134aff4af17487368da1ec760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19e129fb83418579d8e55a29aad0bbaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19e129fb83418579d8e55a29aad0bbaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\416337bb0dad891c95889a8fc9ca13e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\416337bb0dad891c95889a8fc9ca13e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68739488825622e9f00362a38429f602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68739488825622e9f00362a38429f602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0c622d8fe3391e9b557d66bde46cfb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e0c622d8fe3391e9b557d66bde46cfb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\492803f9b8fd086892a2a86da397969b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\492803f9b8fd086892a2a86da397969b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\45b86001f826a79cb77a17a864b1631d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\45b86001f826a79cb77a17a864b1631d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c6e3d8528e67c3d0f5fcae1c96040a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c6e3d8528e67c3d0f5fcae1c96040a2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65b8a45ac7b5ab2feb57b42740c7f738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65b8a45ac7b5ab2feb57b42740c7f738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d8a3ec3987d84f542bbc3d4022dcf170\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d8a3ec3987d84f542bbc3d4022dcf170\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\addb436bc3b0b3de758c4a6a2ec0cac4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\addb436bc3b0b3de758c4a6a2ec0cac4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0a3f72b61da5f7057d4ff0e7e8fa7a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a0a3f72b61da5f7057d4ff0e7e8fa7a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70b6a9ed29ca8b4c97080d47eeebd333\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\John Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70b6a9ed29ca8b4c97080d47eeebd333\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\TPK-School - Copy\app\src\main\AndroidManifest.xml

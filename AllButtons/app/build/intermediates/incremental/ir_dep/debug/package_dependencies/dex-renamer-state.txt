@@ -1,0 +1,4 @@
+#Sat Aug 18 19:28:17 AEST 2018
+base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\AllButtons\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+path.0=classes.dex
+renamed.0=classes.dex

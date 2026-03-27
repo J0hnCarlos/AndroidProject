@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wika</string>
+    <string name="hello">Hola</string>
+    <string name="tutlane">Tutlane</string>
+    <string name="android">Tutorial Android</string>
+    <string name="register">Magrehistro</string>
+</resources>

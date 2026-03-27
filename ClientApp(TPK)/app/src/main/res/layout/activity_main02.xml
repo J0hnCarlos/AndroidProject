@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00838F"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <e.johncarlos.testing.CircleMenuLayout
+        android:id="@+id/id_menulayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="100dp"
+        android:background="@drawable/circle_bg3" >
+
+        <RelativeLayout
+            android:id="@+id/id_circle_menu_item_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/image_center"
+                android:layout_width="104.0dip"
+                android:layout_height="104.0dip"
+                android:layout_centerInParent="true"
+                android:background="@drawable/logo" /> // this is for the image in the middle
+
+            <ImageView
+                android:layout_width="116.0dip"
+                android:layout_height="116.0dip"
+                android:layout_centerInParent="true"
+                android:background="@drawable/turnplate_mask_unlogin_normal" /> // this is to make image appear
+        </RelativeLayout>
+    </e.johncarlos.testing.CircleMenuLayout>
+
+</LinearLayout>

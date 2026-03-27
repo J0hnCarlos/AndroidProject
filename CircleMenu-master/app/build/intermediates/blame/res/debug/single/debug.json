@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skin_manage.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_skin_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_product.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_product.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skin_material.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_skin_material.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_center.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_center.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skin_import.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_skin_import.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_upgrade.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_upgrade.png"
+    },
+    {
+        "merged": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skin_create.png.flat",
+        "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu-master\\app\\src\\main\\res\\drawable-hdpi\\ic_skin_create.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Oct 01 16:42:15 AEST 2018
+base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\BoomMenu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2844d7c8e6331f016f14745638e50488baff84b0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\BoomMenu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38029a3a611e55c3a2f6237acd129da4734bb006\\classes.dex
+base.1=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\BoomMenu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38029a3a611e55c3a2f6237acd129da4734bb006
+file.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\BoomMenu-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2844d7c8e6331f016f14745638e50488baff84b0\\classes.dex

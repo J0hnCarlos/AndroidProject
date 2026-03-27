@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\LanguageInApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th-rTH\\values-th-rTH.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\LanguageInApp\\app\\src\\main\\res\\values-th-rTH\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,109",
+                        "endLines": "2,7",
+                        "endColumns": "50,78",
+                        "endOffsets": "103,361"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endLines": "2,7",
+                        "endColumns": "50,78",
+                        "endOffsets": "101,354"
+                    }
+                }
+            ]
+        }
+    ]
+}

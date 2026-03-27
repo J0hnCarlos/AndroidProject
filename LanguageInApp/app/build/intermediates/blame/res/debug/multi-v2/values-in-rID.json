@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\LanguageInApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in-rID\\values-in-rID.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\John Carlos\\Desktop\\AndoridProject\\LanguageInApp\\app\\src\\main\\res\\values-in-rID\\strings.xml",
+                    "from": {
+                        "startLines": "-1,3",
+                        "startColumns": "-1,4",
+                        "startOffsets": "-1,109",
+                        "endColumns": "-1,152",
+                        "endOffsets": "-1,257"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,106",
+                        "endColumns": "50,152",
+                        "endOffsets": "101,254"
+                    }
+                }
+            ]
+        }
+    ]
+}

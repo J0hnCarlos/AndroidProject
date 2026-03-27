@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">LanguageInApp</string>
+    <string name="text_translation">Hi and welcome to My app,
+        here you will learn how to develop android app.</string>
+
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Indonesian</item>
+        <item>Spanish</item>
+        <item>Philiphines</item>
+        <item>Thailand</item>
+    </string-array>
+</resources>

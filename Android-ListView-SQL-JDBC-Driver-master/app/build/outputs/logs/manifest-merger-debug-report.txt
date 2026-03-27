@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\John Carlos\.android\build-cache\93f457812335f4ab1f5af6ef11edf715a5dcf032\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\John Carlos\.android\build-cache\7d15fc692aa78258649adb14e71499785970ea54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\248d7db43122da477dc124d3b40ab62cf059ab37\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\John Carlos\.android\build-cache\74503a07784e3ff0ed5d2d22b392c3ade130a935\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\John Carlos\.android\build-cache\4aef025f7619d2d0661bc9cc744e6159159d1666\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1338a31e9e19c7d2c677c95b3ba6bc51930fe867\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1dd638fd48818a145cd714494554c811d576d5da\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\38441297fb5e0137f1c6fe1693ff47546b88bfc4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John Carlos\.android\build-cache\3e6b50c72a5bb963f3188cb723e57bfb8975b182\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.a_hamoud.listview_sqlserver.MainActivity
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:16:27-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:20:1-62
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:20:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml:21:22-76
+uses-sdk
+INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\John Carlos\.android\build-cache\93f457812335f4ab1f5af6ef11edf715a5dcf032\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\John Carlos\.android\build-cache\7d15fc692aa78258649adb14e71499785970ea54\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\248d7db43122da477dc124d3b40ab62cf059ab37\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\John Carlos\.android\build-cache\74503a07784e3ff0ed5d2d22b392c3ade130a935\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\John Carlos\.android\build-cache\4aef025f7619d2d0661bc9cc744e6159159d1666\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1338a31e9e19c7d2c677c95b3ba6bc51930fe867\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1dd638fd48818a145cd714494554c811d576d5da\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\38441297fb5e0137f1c6fe1693ff47546b88bfc4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John Carlos\.android\build-cache\3e6b50c72a5bb963f3188cb723e57bfb8975b182\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\AndoridProject\Android-ListView-SQL-JDBC-Driver-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\John Carlos\.android\build-cache\93f457812335f4ab1f5af6ef11edf715a5dcf032\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\John Carlos\.android\build-cache\7d15fc692aa78258649adb14e71499785970ea54\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\248d7db43122da477dc124d3b40ab62cf059ab37\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\John Carlos\.android\build-cache\74503a07784e3ff0ed5d2d22b392c3ade130a935\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\John Carlos\.android\build-cache\4aef025f7619d2d0661bc9cc744e6159159d1666\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1338a31e9e19c7d2c677c95b3ba6bc51930fe867\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\John Carlos\.android\build-cache\1dd638fd48818a145cd714494554c811d576d5da\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\John Carlos\.android\build-cache\38441297fb5e0137f1c6fe1693ff47546b88bfc4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\John Carlos\.android\build-cache\741311e48726d72064634c66ae0b21ce9c34f962\output\AndroidManifest.xml:26:9-47

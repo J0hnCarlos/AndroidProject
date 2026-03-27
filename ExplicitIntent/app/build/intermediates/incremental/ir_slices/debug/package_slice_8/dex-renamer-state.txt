@@ -1,0 +1,4 @@
+#Mon Aug 13 12:05:21 AEST 2018
+base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\ExplicitIntent\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

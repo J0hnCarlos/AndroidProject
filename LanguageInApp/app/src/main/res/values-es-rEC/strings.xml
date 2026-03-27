@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageInApp</string>
+    <string name="text_translation">Hola y bienvenido a mi aplicación,
+        Aquí aprenderás a desarrollar la aplicación de Android.</string>
+</resources>

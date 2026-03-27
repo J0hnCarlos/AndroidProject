@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\78bd071dd6f35f03ffa4d905d4b269b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3e62d0e16598df90213176bef2f5ad15\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\38c9ecc94f683950c36235b9860c8896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\bdf0cd8a2da5f6a1896defacbd720446\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\2b4f87d09adf686062540a537a7f2401\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3d92957a8303326660c5c84aa888dd5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3c6ccb016ed5213484162244fc3569f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6e89220356ea9fa6850c42fa88181e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\0766c09b8b3c2bcb47d2637cc4d14781\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\68b59744f47897776f3e8efe1056fa33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\55d0a0419e6407505aca204772d9003f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6da404421b4c09970e70f98070be8913\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\36655de32569a5f45082961de9da8b39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\975e5c1efcb65a0fdeb20e4d73848de5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\369f3a6e407e01db6faeb7b68a2a85eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a94f1cd2c7ae2561f57b1a22aea9241e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\5c1fde5bd66df7c2ab476ec87c0ed73e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\89b9ae5360673b9c19f6f13d712ba800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a9eaeb50df58cde4c34d0ebf18e0c5e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6822a9c8a482b97cf1e699825cf82e87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\1352ab5f3db7e3c0e68e12e170014db7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\d7d2b4fea58952e03797fc54af1a1391\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\7130a20baa6b209d29c05b547dfc4b70\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\19273c25859bb31f2190f905ce36510c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\e0b4ffa2948c0ecc82a6efeaaa051bee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\b883cc667174be149d9ebd7272f42bb8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3e62d0e16598df90213176bef2f5ad15\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3e62d0e16598df90213176bef2f5ad15\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a94f1cd2c7ae2561f57b1a22aea9241e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a94f1cd2c7ae2561f57b1a22aea9241e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:7:9-36
+	android:allowBackup
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:11:9-40
+activity#e.johncarlos.testing.SplashActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:16:27-74
+activity#e.johncarlos.testing.MainMenuActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:19:19-51
+activity#e.johncarlos.testing.LanguageActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:20:19-51
+activity#e.johncarlos.testing.DummyActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:21:19-48
+activity#e.johncarlos.testing.VocabularyActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:22:19-53
+activity#e.johncarlos.testing.LinksActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:23:19-48
+activity#e.johncarlos.testing.LearnActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:24:19-48
+activity#e.johncarlos.testing.DrawActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:25:19-47
+activity#e.johncarlos.testing.QuestionActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:26:19-51
+activity#e.johncarlos.testing.InfoActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:27:19-47
+activity#e.johncarlos.testing.GameOverActivity
+ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\78bd071dd6f35f03ffa4d905d4b269b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\78bd071dd6f35f03ffa4d905d4b269b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3e62d0e16598df90213176bef2f5ad15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3e62d0e16598df90213176bef2f5ad15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\38c9ecc94f683950c36235b9860c8896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\38c9ecc94f683950c36235b9860c8896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\bdf0cd8a2da5f6a1896defacbd720446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\bdf0cd8a2da5f6a1896defacbd720446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\2b4f87d09adf686062540a537a7f2401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\2b4f87d09adf686062540a537a7f2401\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3d92957a8303326660c5c84aa888dd5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3d92957a8303326660c5c84aa888dd5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3c6ccb016ed5213484162244fc3569f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\3c6ccb016ed5213484162244fc3569f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6e89220356ea9fa6850c42fa88181e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6e89220356ea9fa6850c42fa88181e9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\0766c09b8b3c2bcb47d2637cc4d14781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\0766c09b8b3c2bcb47d2637cc4d14781\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\68b59744f47897776f3e8efe1056fa33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\68b59744f47897776f3e8efe1056fa33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\55d0a0419e6407505aca204772d9003f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\55d0a0419e6407505aca204772d9003f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6da404421b4c09970e70f98070be8913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6da404421b4c09970e70f98070be8913\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\36655de32569a5f45082961de9da8b39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\36655de32569a5f45082961de9da8b39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\975e5c1efcb65a0fdeb20e4d73848de5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\975e5c1efcb65a0fdeb20e4d73848de5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\369f3a6e407e01db6faeb7b68a2a85eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\369f3a6e407e01db6faeb7b68a2a85eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\93468d0c11a24399819ec418acf45880\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a94f1cd2c7ae2561f57b1a22aea9241e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a94f1cd2c7ae2561f57b1a22aea9241e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\5c1fde5bd66df7c2ab476ec87c0ed73e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\5c1fde5bd66df7c2ab476ec87c0ed73e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\89b9ae5360673b9c19f6f13d712ba800\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\89b9ae5360673b9c19f6f13d712ba800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a9eaeb50df58cde4c34d0ebf18e0c5e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\a9eaeb50df58cde4c34d0ebf18e0c5e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6822a9c8a482b97cf1e699825cf82e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\6822a9c8a482b97cf1e699825cf82e87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\1352ab5f3db7e3c0e68e12e170014db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\1352ab5f3db7e3c0e68e12e170014db7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\d7d2b4fea58952e03797fc54af1a1391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\d7d2b4fea58952e03797fc54af1a1391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\7130a20baa6b209d29c05b547dfc4b70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\7130a20baa6b209d29c05b547dfc4b70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\19273c25859bb31f2190f905ce36510c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\19273c25859bb31f2190f905ce36510c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\e0b4ffa2948c0ecc82a6efeaaa051bee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\e0b4ffa2948c0ecc82a6efeaaa051bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\b883cc667174be149d9ebd7272f42bb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\John Carlos\.gradle\caches\transforms-2\files-2.1\b883cc667174be149d9ebd7272f42bb8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John Carlos\Desktop\Diploma of Information Technology\Semester 2\AndoridProject\ClientApp(TPK)\app\src\main\AndroidManifest.xml

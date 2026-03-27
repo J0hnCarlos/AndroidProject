@@ -1,0 +1,4 @@
+#Fri Oct 19 13:43:25 AEDT 2018
+base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\ClientApp(TPK)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\72
+path.0=classes.dex
+renamed.0=classes.dex

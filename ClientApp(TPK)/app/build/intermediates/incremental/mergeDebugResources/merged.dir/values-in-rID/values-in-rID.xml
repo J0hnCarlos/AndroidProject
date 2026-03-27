@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_option">
+        <item>Pilih Bahasa</item>
+        <item>English</item>
+        <item>Indonesian</item>
+    </string-array>
+    <string name="action_settings">Circle Menu Design</string>
+    <string name="app_name">Tpk-School</string>
+    <string name="are_you_coming">Apakah kamu akan datang?</string>
+    <string name="black">Hitam</string>
+    <string name="blue">Biru</string>
+    <string name="brown">Coklat</string>
+    <string name="color">Warna</string>
+    <string name="come_here">Kesini.</string>
+    <string name="daughter">Anak Perempuan</string>
+    <string name="eight">Delapan</string>
+    <string name="family_members">Keluarga</string>
+    <string name="father">Ayah</string>
+    <string name="five">Lima</string>
+    <string name="four">Empat</string>
+    <string name="gaming_translation">Permainan</string>
+    <string name="grandfather">Kakek</string>
+    <string name="grandmother">Nenek</string>
+    <string name="gray">Abu-abu</string>
+    <string name="green">Hijau</string>
+    <string name="help_translation">Bantuan</string>
+    <string name="how_are_you_feeling">Bagaimana perasaanmu?</string>
+    <string name="im_coming">Saya datang.</string>
+    <string name="im_feeling_good">Saya merasa baik.</string>
+    <string name="info_translation">Informasi</string>
+    <string name="lets_go">Ayo pergi.</string>
+    <string name="mother">Ibu</string>
+    <string name="my_name_is">Nama saya...</string>
+    <string name="nine">Sembilan</string>
+    <string name="number">Angka</string>
+    <string name="older_brother">Kakak Laki-laki</string>
+    <string name="older_sister">Kakak Perempuan</string>
+    <string name="one">Satu</string>
+    <string name="other_translation">Lain-Lain</string>
+    <string name="phrases">Frase</string>
+    <string name="red">Merah</string>
+    <string name="seven">Tujuh</string>
+    <string name="six">Enam</string>
+    <string name="son">Anak Laki-laki</string>
+    <string name="surprise_translation">Kejutan</string>
+    <string name="ten">Sepuluh</string>
+    <string name="text_about_app">Tamizh Pallikoodam (TPK) adalah sekolah nirlaba yang dijalankan semata-mata untuk memberikan kesempatan bagi warga Australia untuk menjelajahi dan mengalami tradisi, bahasa, seni dan budaya Tamil yang kaya. Sekolah Tamil kami adalah pendukung besar agenda multikultural pemerintah Australia.
+
+Sekolah memiliki kelompok kepemimpinan yang unik yang ditarik dari para guru senior di sekolah negeri dan swasta di sekitar Melbourne, Victoria, yang telah merancang kurikulum yang sangat kontekstual yang membuat belajar Tamil menjadi kegiatan yang menyenangkan.
+
+Kurikulum duduk cukup dalam paradigma Victorian Essential Learning Standards (VELS) dan karenanya anak-anak diajarkan bahasa Tamil dengan cara yang sama mereka diajarkan mata pelajaran lain di sekolah-sekolah mereka. Anak-anak belajar bahasa serta sejarah dan budaya Tamil dengan belajar bercerita, drama dan drama komedi. Mempelajari berbagai bahasa memiliki dasar bukti untuk meningkatkan kapasitas kognitif dan intelektual pelajar dan diharapkan bahwa Pallikoodam akan berkontribusi pada pengayaan generasi masa depan Australia, secara intelektual, filosofis dan emosional yang mengarah pada pemahaman menyeluruh, welas asih, menyeluruh warga dunia.
+
+Tamizh Pallikoodam bukan sekolah pencari keuntungan.</string>
+    <string name="text_about_app_2">Ide umumnya adalah memiliki aplikasi seluler sebagai alat untuk membantu dalam proses pembelajaran bagi para siswa.
+
+Jadikan belajar bahasanya menarik dan menyenangkan. Penggunaan aplikasi khusus seperti ini dapat membantu sekolah sebagai organisasi yang merangkul teknologi dalam pengajaran dan pembelajaran, yang pada gilirannya mendapatkan niat baik di dalam masyarakat.
+    </string>
+    <string name="text_about_app_3">Aplikasi ini telah dikembangkan oleh tim DJ Bob sebagai bagian dari tugas akhir mereka untuk COSC7362. Mengembangkan program aplikasi multi-touch ponsel mutakhir, RMIT university, 2018</string>
+    <string name="text_translation">Hallo</string>
+    <string name="three">Tiga</string>
+    <string name="title_about_app">Tentang Aplikasi Tamizh Pallikoodam</string>
+    <string name="two">Dua</string>
+    <string name="vocabulary_translation">Bahasa</string>
+    <string name="what_is_your_name">Nama kamu siapa?</string>
+    <string name="where_are_you_going">Kamu kemana?</string>
+    <string name="white">Putih</string>
+    <string name="yellow">Kuning</string>
+    <string name="yes_im_coming">Iya, saya akan datang.</string>
+    <string name="younger_brother">Adik Laki-laki</string>
+    <string name="younger_sister">Adik Perempuan</string>
+</resources>
