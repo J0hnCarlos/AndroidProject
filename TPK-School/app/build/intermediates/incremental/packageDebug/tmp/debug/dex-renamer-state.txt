@@ -1,4 +1,0 @@
-#Sun Sep 23 20:21:44 AEST 2018
-base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\TPK-School\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

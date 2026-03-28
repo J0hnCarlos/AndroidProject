@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Mon Sep 10 11:28:40 AEST 2018
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\TPK-School\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-0.path=classes.dex
-0.set=DEX
-count=1
