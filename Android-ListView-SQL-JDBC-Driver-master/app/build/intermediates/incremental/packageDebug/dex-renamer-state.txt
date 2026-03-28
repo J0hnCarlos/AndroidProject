@@ -1,7 +1,0 @@
-#Mon Oct 01 13:34:17 AEST 2018
-base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\Android-ListView-SQL-JDBC-Driver-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8a31ff376926bc73d83a8b64ac2447c4839dc05a
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\Android-ListView-SQL-JDBC-Driver-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_58ae54e7540f3aeedb86c363c7f7c1a2088f9fda\\classes.dex
-base.1=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\Android-ListView-SQL-JDBC-Driver-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_58ae54e7540f3aeedb86c363c7f7c1a2088f9fda
-file.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\Android-ListView-SQL-JDBC-Driver-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8a31ff376926bc73d83a8b64ac2447c4839dc05a\\classes.dex
