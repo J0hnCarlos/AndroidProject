@@ -1,4 +1,0 @@
-#Mon Sep 24 15:51:47 AEST 2018
-base.0=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\CircleMenu\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
-path.0=classes.dex
-renamed.0=classes.dex
