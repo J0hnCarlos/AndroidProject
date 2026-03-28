@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Database</string>
-    <string name="assign">Not assigned</string>
-    <string name="add_string">Add</string>
-    <string name="find_string">Find</string>
-    <string name="delete_string">Delete</string>
-</resources>
