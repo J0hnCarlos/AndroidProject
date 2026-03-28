@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Thu Sep 27 22:17:17 AEST 2018
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\John Carlos\\Desktop\\AndoridProject\\MovingPics\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\84
-0.path=classes.dex
-0.set=DEX
-count=1
